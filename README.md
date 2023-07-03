@@ -8,6 +8,9 @@ The Marine Plastic Detection problem, in particular, has been targeted during th
 The vision document contains all the requirements of the project highlighted during the "Process Mining and Business Intelligence" course at the University of Pisa.<br>
 The documentation file contains a step-by-step description of the project.
 
+### Process Landscape
+<img width="946" alt="image" src="https://github.com/terranovaa/MarinePlasticDetection/assets/61695945/925e6543-239e-4ef2-a1c8-2fb0fc9e1dee">
+
 ### Requirements
 The project relies on the usage of the following software/tools:
 <ul>
@@ -17,3 +20,4 @@ The project relies on the usage of the following software/tools:
 <li>Apromore</li>
 <li>Disco</li>
 </ul>
+
